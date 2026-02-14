@@ -1,7 +1,7 @@
-Live API
 
-Home:
+API:
 http://18.175.219.44:8000
 
-Prediction:
-http://18.175.219.44:8000/predict?time=10000&amount=500
+Swagger UI (API Documentation):
+http://18.175.219.44:8000/docs
+
